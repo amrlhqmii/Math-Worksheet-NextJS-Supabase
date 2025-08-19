@@ -1,6 +1,6 @@
 # Math Worksheet
 
-An interactive web app for practicing rounding numbers to the nearest 10. Built with Next.js (App Router) + TypeScript, styled using Tailwind CSS, enhanced with Framer Motion animations, and backed by Supabase for storing and displaying high scores. Deployed on [Vercel](https://math-worksheet-next-js-supabase-1p6qjvyc4.vercel.app/).
+An interactive web app for practicing rounding numbers to the nearest 10. Built with Next.js (App Router) + TypeScript, styled using Tailwind CSS, enhanced with Framer Motion animations, and backed by Supabase for storing and displaying high scores. Deployed on [Vercel](https://math-worksheet-next-js-supabase.vercel.app/).
 
 ## Features
 
